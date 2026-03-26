@@ -42,8 +42,8 @@ content-based-recommender/
 ---
 
 ## ⚙️ Installation
-```bash
-git clone https://github.com/YOUR-USERNAME/content-based-recommender.git
+
+git clone https://github.com/Sourav1000888/Movie-recommendation-system
 cd content-based-recommendation
 
 ---
@@ -53,7 +53,6 @@ cd content-based-recommendation
 Run the model:
 streamlit run app7.py
 
----
 
 ## 📊 Model Details
 * Feature Extraction: SBERT (embeddings) on descriptions
@@ -64,4 +63,3 @@ streamlit run app7.py
 ## 🔮 Future Improvements
 * Deploy as web app (streamlit)
 
----
