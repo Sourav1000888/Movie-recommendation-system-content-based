@@ -1,7 +1,7 @@
 # Content-Based Recommendation System
 
 ## 📌 Description
-This project implements a **content-based recommendation system** that suggests items movies to users based on **item features and similarity**. It uses **feature extraction**, **TF-IDF / embeddings**, and **cosine similarity** to recommend items that are similar to what the user has liked before.
+This project implements a **content-based recommendation system** that suggests items movies to users based on **item features and similarity**. It uses **feature extraction**, **SBERT embeddings**, and **cosine similarity** to recommend items that are similar to what the user has liked before.
 
 ---
 
