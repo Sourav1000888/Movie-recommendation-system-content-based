@@ -1,3 +1,4 @@
 streamlit
 scikit-learn
 faiss
+package>=1.0.0
