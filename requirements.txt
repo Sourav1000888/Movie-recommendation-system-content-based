@@ -4,5 +4,5 @@ wheel
 streamlit
 scikit-learn
 faiss-cpu
-sentence_transformers
-datetime
+torch
+transformers
